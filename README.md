@@ -1,5 +1,3 @@
-# TCR_Analysis_PyLib
-
 # **T-Cell Receptor (TCR) Analysis Pipeline**
 ## **Table of Contents**
 - [Introduction](#introduction)
